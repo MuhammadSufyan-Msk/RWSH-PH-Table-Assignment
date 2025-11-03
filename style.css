@@ -1,0 +1,97 @@
+/* Basic page setup */
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    background-color: #ddd;
+    padding: 10px;
+    /* width: 300px; */
+    border: 1px solid #aaa;
+    margin: 20px auto 0 auto;
+    text-align: left;
+}
+
+/* All bars share same box properties */
+.scale {
+    /* width: 300px; */
+    color: white;
+    font-weight: bold;
+    padding: 6px 10px;
+    margin: 0 auto;
+    border-left: 1px solid #aaa;
+    border-right: 1px solid #aaa;
+}
+
+/* Top and bottom borders */
+.ph14 {
+    border-top: 1px solid #aaa;
+}
+
+.ph0 {
+    border-bottom: 1px solid #aaa;
+}
+
+/* Alkaline side (blue tones) */
+.ph14 {
+    background-color: #007799;
+}
+
+.ph13 {
+    background-color: #0099cc;
+}
+
+.ph12 {
+    background-color: #19a3d1;
+}
+
+.ph11 {
+    background-color: #33add6;
+}
+
+.ph10 {
+    background-color: #4db8db;
+}
+
+.ph9 {
+    background-color: #66c2e0;
+}
+
+.ph8 {
+    background-color: #80cce6;
+}
+
+/* Neutral */
+.ph7 {
+    background-color: #33cc66;
+}
+
+/* Acidic side (pink to red) */
+.ph6 {
+    background-color: #f2a6b3;
+}
+
+.ph5 {
+    background-color: #f28ca3;
+}
+
+.ph4 {
+    background-color: #f27294;
+}
+
+.ph3 {
+    background-color: #f25985;
+}
+
+.ph2 {
+    background-color: #f24076;
+}
+
+.ph1 {
+    background-color: #f22767;
+}
+
+.ph0 {
+    background-color: #b3003b;
+}
